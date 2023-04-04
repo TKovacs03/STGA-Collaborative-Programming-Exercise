@@ -17,3 +17,7 @@ stga_dict = {
     
 }
 [print(f"{names} is taking {stga_dict[names]}") for names in stga_dict]
+
+name = "Simon"
+statement = f"{name} Completed Adding Something."
+print(statement)
